@@ -7,7 +7,7 @@
 <div align="center">
 
 
-[![Gradle](https://github.com/prateek-chaubey/YTPro/actions/workflows/gradle.yml/badge.svg)](https://github.com/prateek-chaubey/YTPro/actions/workflows/gradle.yml)
+
 
 
 [![https://telegram.me/UMAR231231](https://img.shields.io/badge/Telegram-Channel-orange.svg?style=flat-square)](https://telegram.me/ )
