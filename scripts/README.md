@@ -24,7 +24,7 @@
 
 ## Download YT PRO
 
-[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-ff0000?style=for-the-badge&logo=download&logoColor=white "Download Apk")](https://nightly.link/prateek-chaubey/YTPro/workflows/gradle/main/Apk.zip)
+[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-ff0000?style=for-the-badge&logo=download&logoColor=white "Download Apk")](https://nightly.link/UMAR-MG/YTPro/workflows/gradle/main/Apk.zip)
 
 ## Features
  * Video Downloader
