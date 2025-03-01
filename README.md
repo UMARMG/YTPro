@@ -52,7 +52,7 @@
  * Merging Adaptive Formats
 
 ### Credits
-* [node-ytdl](https://github.com/fent/node-ytdl) , [Sponsor Block](https://github.com/ajayyy/SponsorBlock) , [return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) , [ytdl](https://github.com/prateek-chaubey/ytdl)
+
 
 ### ❤️Supporters❤️
      
