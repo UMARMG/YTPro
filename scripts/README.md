@@ -10,7 +10,7 @@
 [![Gradle](https://github.com/prateek-chaubey/YTPro/actions/workflows/gradle.yml/badge.svg)](https://github.com/prateek-chaubey/YTPro/actions/workflows/gradle.yml)
 
 
-[![https://telegram.me/th30neand0nly0ne](https://img.shields.io/badge/Telegram-Channel-orange.svg?style=flat-square)](https://telegram.me/ )
+[![https://telegram.me/UMAR231231](https://img.shields.io/badge/Telegram-Channel-orange.svg?style=flat-square)](https://telegram.me/ )
 [![https://t.me/UMARMG23 ](https://img.shields.io/badge/Telegram-@UMAR231231-blue.svg?style=flat-square)](https://telegram.me/@UMAR231231)
 
 </div>
