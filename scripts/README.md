@@ -11,7 +11,7 @@
 <img alt="jsDelivr monthly hits badge" src="https://data.jsdelivr.com/v1/package/npm/ytpro/badge">
 
 [![https://telegram.me/th30neand0nly0ne](https://img.shields.io/badge/Telegram-Channel-orange.svg?style=flat-square)](https://telegram.me/ )
-[![https://telegram.me/UMARMG23 ](https://img.shields.io/badge/Telegram-@UMAR231231-blue.svg?style=flat-square)](https://telegram.me/UMAR231231 )
+[![https://telegram.me/UMARMG23 ](https://img.shields.io/badge/Telegram-UMAR231231-blue.svg?style=flat-square)](https://telegram.me/UMAR231231 )
 
 </div>
 
