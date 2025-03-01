@@ -1,7 +1,7 @@
 /*****YTPRO*******
-Author: Prateek Chaubey
+Author: UMAR MG
 Version: 3.5.1
-URI: https://github.com/prateek-chaubey/
+URI: https://github.com/UMARMG/
 */
 
 
